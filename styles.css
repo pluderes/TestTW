@@ -189,7 +189,7 @@ img {
 /* Footer */
 .footer {
     background-color: #f8f9fa;
-    padding: 2rem 2rem;
+    padding: 2rem 190px;
 }
 
 .footer__container {
@@ -264,6 +264,10 @@ img {
         padding-right: 100px;
     }
 
+    .footer {
+        padding: 2rem 100px;
+    }
+
     .packages__container {
         flex-direction: column;
     }
@@ -305,6 +309,10 @@ img {
     .body__content {
         padding-left: 80px;
         padding-right: 80px;
+    }
+
+    .footer {
+        padding: 2rem 80px;
     }
 
     .team__member {
@@ -392,6 +400,10 @@ img {
 
     .team__social-link {
         font-size: 20px;
+    }
+
+    .footer {
+        padding: 2rem 2rem;
     }
 
     .footer__info {
